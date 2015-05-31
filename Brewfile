@@ -110,7 +110,7 @@ brew harfbuzz
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
+brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
 brew jasper --universal
 brew jbig2dec
 brew jpeg --universal
