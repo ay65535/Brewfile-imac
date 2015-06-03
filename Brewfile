@@ -4,40 +4,71 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask 0xed
+cask adobe-air
 cask air-video-server-hd
-cask alfred
 cask android-studio
 cask appcleaner
+cask atom
 cask backuploupe
+cask bathyscaphe
 cask betterzipql
 cask box-sync
+cask chrome-remote-desktop-host
+cask cleanarchiver
+cask cooviewer
 cask copy
 cask coteditor
+cask disk-inventory-x
+cask dupscanub
 cask eclipse-jee
 cask evernote
+cask fluid
 cask github
 cask google-chrome
 cask google-drive
+cask imageoptim
+cask kobito
 cask libreoffice
 cask macwinzipper
+cask mediainfo
+cask menubar-countdown
+cask mou
 cask mplayer-osx-extended
 cask mplayerx
+cask nndd
+cask onyx
+cask opera
 cask picasa
+cask powerphotos
 cask sequel-pro
+cask shupapan
+cask skitch
 cask skype
 cask sourcetree
+cask stackroom
 cask textwrangler
 cask the-unarchiver
 cask transmission
+cask unetbootin
 cask vlc
+cask xld
+cask xquartz
 
 ## caskroom/fonts
 tap caskroom/fonts
 
 ## caskroom/versions
 tap caskroom/versions
+cask clipmenu-dev
+cask dropbox-experimental
+cask firefox-ja
+cask iterm2-beta
 cask iterm2-nightly
+cask opera-beta
+cask opera-developer
 cask sublime-text3
+cask thunderbird-ja
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -58,7 +89,7 @@ brew peco
 
 ## rcmdnk/file
 tap rcmdnk/file
-brew brew-file
+brew brew-file --HEAD
 
 ## sanemat/font
 tap sanemat/font
