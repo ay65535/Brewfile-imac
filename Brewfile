@@ -30,6 +30,7 @@ cask google-drive
 cask imageoptim
 cask kobito
 cask libreoffice
+cask lyrics-master
 cask macwinzipper
 cask mediainfo
 cask menubar-countdown
@@ -156,6 +157,7 @@ brew libebml
 brew libevent
 brew libffi
 brew libgphoto2 --universal
+brew libgsm --universal
 brew libicns --universal
 brew libmagic
 brew libmatroska
@@ -181,6 +183,7 @@ brew makedepend
 brew media-info
 brew mercurial
 brew mkvtoolnix
+brew mono
 brew mplayer
 brew mplayershell
 brew mysql
@@ -218,7 +221,7 @@ brew w3m
 brew wakeonlan
 brew webp
 brew wget
-brew wine
+brew wine --devel --with-libgsm
 brew winetricks
 brew x264
 brew x265
@@ -234,6 +237,7 @@ appstore iPhoto
 appstore iVolume
 appstore Now Playing
 appstore OneDrive
+appstore Quick View
 appstore QuickTag
 appstore Wunderlist
 appstore Xcode
