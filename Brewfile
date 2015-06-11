@@ -63,6 +63,7 @@ tap caskroom/fonts
 
 ## caskroom/versions
 tap caskroom/versions
+cask 1password-beta
 cask clipmenu-dev
 cask dropbox-experimental
 cask firefox-ja
