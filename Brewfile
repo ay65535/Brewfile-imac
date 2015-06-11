@@ -29,7 +29,9 @@ cask google-chrome
 cask google-drive
 cask imageoptim
 cask kobito
+cask launchcontrol
 cask libreoffice
+cask lingon-x
 cask lyrics-master
 cask macwinzipper
 cask mediainfo
@@ -113,6 +115,7 @@ brew cscope
 brew ctags
 brew czmq
 brew emacs --with-cocoa
+brew epeg
 brew faac
 brew fdk-aac
 brew ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-x265
@@ -155,6 +158,7 @@ brew libatomic_ops
 brew libcroco
 brew libebml
 brew libevent
+brew libexif
 brew libffi
 brew libgphoto2 --universal
 brew libgsm --universal
@@ -183,7 +187,6 @@ brew makedepend
 brew media-info
 brew mercurial
 brew mkvtoolnix
-brew mono
 brew mplayer
 brew mplayershell
 brew mysql
