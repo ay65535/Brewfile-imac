@@ -133,7 +133,7 @@ brew gettext
 brew ghostscript
 brew gibo
 brew gist
-brew git --with-blk-sha1 --with-brewed-openssl --with-blk-sha1 --with-brewed-openssl
+brew git --with-blk-sha1 --with-brewed-openssl
 brew git-flow
 brew glib
 brew gmp
@@ -149,7 +149,7 @@ brew harfbuzz
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
+brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
 brew jasper --universal
 brew jbig2dec
 brew jpeg --universal
@@ -195,7 +195,7 @@ brew nettle
 brew nicovideo-dl
 brew nkf
 brew nmap
-brew openssl --universal --universal
+brew openssl --universal
 brew p7zip
 brew pango
 brew pcre
