@@ -56,7 +56,6 @@ cask transmission
 cask unetbootin
 cask vlc
 cask xld
-cask xquartz
 
 ## caskroom/fonts
 tap caskroom/fonts
@@ -73,6 +72,7 @@ cask opera-beta
 cask opera-developer
 cask sublime-text3
 cask thunderbird-ja
+cask xquartz-beta
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -133,7 +133,7 @@ brew gettext
 brew ghostscript
 brew gibo
 brew gist
-brew git --with-blk-sha1 --with-brewed-openssl
+brew git --with-blk-sha1 --with-brewed-openssl --with-blk-sha1 --with-brewed-openssl
 brew git-flow
 brew glib
 brew gmp
@@ -149,7 +149,7 @@ brew harfbuzz
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
+brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
 brew jasper --universal
 brew jbig2dec
 brew jpeg --universal
@@ -195,7 +195,7 @@ brew nettle
 brew nicovideo-dl
 brew nkf
 brew nmap
-brew openssl --universal
+brew openssl --universal --universal
 brew p7zip
 brew pango
 brew pcre
@@ -225,7 +225,7 @@ brew w3m
 brew wakeonlan
 brew webp
 brew wget
-brew wine --devel --with-libgsm
+brew wine --with-libgsm --with-libgsm
 brew winetricks
 brew x264
 brew x265
@@ -237,11 +237,14 @@ brew zeromq
 brew zsh --disable-etcdir
 
 # App Store applications
+appstore Blackmagic Disk Speed Test
 appstore iPhoto
 appstore iVolume
 appstore Now Playing
 appstore OneDrive
 appstore Quick View
 appstore QuickTag
+appstore TweetDeck
+appstore Twitter
 appstore Wunderlist
 appstore Xcode
