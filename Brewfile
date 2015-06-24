@@ -54,6 +54,7 @@ cask textwrangler
 cask the-unarchiver
 cask transmission
 cask unetbootin
+cask virtualbox
 cask vlc
 cask xld
 
@@ -107,6 +108,7 @@ brew autoconf
 brew automake
 brew bdw-gc
 brew boost
+brew boot2docker
 brew cabextract
 brew cairo
 brew cmake
@@ -115,6 +117,7 @@ brew coreutils
 brew cscope
 brew ctags
 brew czmq
+brew docker
 brew emacs --with-cocoa
 brew epeg
 brew faac
