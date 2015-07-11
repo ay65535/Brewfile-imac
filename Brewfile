@@ -71,7 +71,6 @@ cask iterm2-beta
 cask iterm2-nightly
 cask opera-beta
 cask opera-developer
-cask sublime-text3
 cask thunderbird-ja
 cask xquartz-beta
 
@@ -123,7 +122,7 @@ brew emacs --with-cocoa
 brew epeg
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-x265 --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-x265
+brew ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-x265
 brew fish --HEAD
 brew flac
 brew fontconfig --universal
@@ -138,7 +137,7 @@ brew gettext
 brew ghostscript
 brew gibo
 brew gist
-brew git --with-blk-sha1 --with-brewed-openssl --with-blk-sha1 --with-brewed-openssl
+brew git --with-blk-sha1 --with-brewed-openssl
 brew git-flow
 brew glib
 brew gmp
@@ -155,7 +154,7 @@ brew hicolor-icon-theme
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
+brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
 brew jasper --universal
 brew jbig2dec
 brew jpeg --universal
@@ -167,7 +166,7 @@ brew libebml
 brew libevent
 brew libexif
 brew libffi
-brew libgphoto2 --universal --universal
+brew libgphoto2 --universal
 brew libgsm --universal
 brew libicns --universal
 brew libmagic
@@ -176,7 +175,7 @@ brew libogg
 brew libpng --universal
 brew librsvg
 brew libtasn1 --universal
-brew libtiff --universal --universal
+brew libtiff --universal
 brew libtool --universal
 brew libusb --universal
 brew libusb-compat --universal
@@ -201,7 +200,7 @@ brew nettle
 brew nicovideo-dl
 brew nkf
 brew nmap
-brew openssl --universal --universal
+brew openssl --universal
 brew p7zip
 brew pango
 brew pcre
