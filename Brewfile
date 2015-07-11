@@ -191,7 +191,6 @@ brew lv
 brew macvim --custom-icons --override-system-vim --with-lua --with-luajit
 brew makedepend
 brew media-info
-brew mercurial
 brew mkvtoolnix
 brew mplayer
 brew mplayershell
