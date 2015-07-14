@@ -154,7 +154,7 @@ brew hicolor-icon-theme
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
+brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
 brew jasper --universal
 brew jbig2dec
 brew jpeg --universal
@@ -188,7 +188,7 @@ brew little-cms2 --universal
 brew lua
 brew luajit
 brew lv
-brew macvim --custom-icons --override-system-vim --with-lua --with-luajit
+brew macvim --custom-icons --override-system-vim --with-lua --with-luajit --custom-icons --override-system-vim --with-lua --with-luajit
 brew makedepend
 brew media-info
 brew mkvtoolnix
@@ -199,7 +199,7 @@ brew nettle
 brew nicovideo-dl
 brew nkf
 brew nmap
-brew openssl --universal
+brew openssl --universal --universal
 brew p7zip
 brew pango
 brew pcre
