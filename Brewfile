@@ -119,7 +119,7 @@ brew emacs --with-cocoa
 brew epeg
 brew faac
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-x265
+brew ffmpeg --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-x265 --with-fdk-aac --with-freetype --with-libass --with-libvorbis --with-libvpx --with-x265
 brew fish --HEAD
 brew flac
 brew fontconfig --universal
@@ -134,7 +134,7 @@ brew gettext
 brew ghostscript
 brew gibo
 brew gist
-brew git --with-blk-sha1 --with-brewed-openssl --with-blk-sha1 --with-brewed-openssl
+brew git --with-blk-sha1 --with-brewed-openssl
 brew git-flow
 brew glib
 brew gmp
@@ -151,7 +151,7 @@ brew hicolor-icon-theme
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
+brew imagemagick --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp --with-fontconfig --with-ghostscript --with-librsvg --with-libwmf --with-pango --with-webp
 brew jasper --universal
 brew jbig2dec
 brew jpeg --universal
@@ -169,7 +169,7 @@ brew libicns --universal
 brew libmagic
 brew libmatroska
 brew libogg
-brew libpng --universal
+brew libpng --universal --universal
 brew librsvg
 brew libtasn1 --universal
 brew libtiff --universal
