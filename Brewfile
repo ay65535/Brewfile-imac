@@ -28,6 +28,7 @@ cask fluid
 cask github
 cask google-chrome
 cask google-drive
+cask google-photos-backup
 cask imageoptim
 cask kobito
 cask launchcontrol
