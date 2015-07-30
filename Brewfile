@@ -135,7 +135,7 @@ brew gettext
 brew ghostscript
 brew gibo
 brew gist
-brew git --with-blk-sha1 --with-brewed-openssl --with-blk-sha1 --with-brewed-openssl
+brew git --with-blk-sha1 --with-brewed-openssl
 brew git-flow
 brew glib
 brew gmp
