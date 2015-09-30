@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask 0xed
+cask 1password
 cask adobe-air
 cask air-video-server-hd
 cask android-studio
@@ -12,7 +13,6 @@ cask appcleaner
 cask atom
 cask backuploupe
 cask bathyscaphe
-cask betterzipql
 cask box-sync
 cask chrome-remote-desktop-host
 cask cleanarchiver
@@ -25,7 +25,7 @@ cask dupscanub
 cask eclipse-jee
 cask evernote
 cask fluid
-cask github
+cask github-desktop
 cask google-chrome
 cask google-drive
 cask google-photos-backup
@@ -49,6 +49,7 @@ cask sequel-pro
 cask shupapan
 cask skitch
 cask skype
+cask soundflower
 cask sourcetree
 cask stackroom
 cask textwrangler
@@ -64,7 +65,6 @@ tap caskroom/fonts
 
 ## caskroom/versions
 tap caskroom/versions
-cask 1password-beta
 cask clipmenu-dev
 cask firefox-ja
 cask iterm2-beta
@@ -91,7 +91,7 @@ brew peco
 
 ## rcmdnk/file
 tap rcmdnk/file
-brew brew-file --HEAD
+brew brew-file
 
 ## sanemat/font
 tap sanemat/font
@@ -135,7 +135,7 @@ brew gettext
 brew ghostscript
 brew gibo
 brew gist
-brew git --with-blk-sha1 --with-brewed-openssl
+brew git --with-blk-sha1 --with-brewed-openssl --with-blk-sha1 --with-brewed-openssl --with-blk-sha1 --with-brewed-openssl
 brew git-flow
 brew glib
 brew gmp
@@ -175,7 +175,7 @@ brew librsvg
 brew libtasn1 --universal
 brew libtiff --universal
 brew libtool --universal
-brew libusb --universal
+brew libusb --universal --universal
 brew libusb-compat --universal
 brew libvo-aacenc
 brew libvorbis
@@ -237,11 +237,13 @@ brew yasm
 brew youtube-dl
 brew z --HEAD
 brew zeromq
-brew zsh --disable-etcdir
+brew zsh --without-etcdir
 
 # App Store applications
 appstore Blackmagic Disk Speed Test
 appstore iVolume
+appstore LadioCast
+appstore LINE
 appstore Now Playing
 appstore OneDrive
 appstore Quick View
