@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask --HEAD
 cask air-video-server-hd
+cask backuploupe
 cask coteditor
 cask disk-inventory-x
 cask dupscanub
