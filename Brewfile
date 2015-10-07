@@ -19,6 +19,7 @@ cask mplayer-osx-extended
 cask mplayerx
 cask mysqlworkbench
 cask picasa
+cask provisionql
 cask qlstephen
 cask shupapan
 cask skitch
@@ -116,7 +117,7 @@ brew go --HEAD
 brew gobject-introspection
 brew gptfdisk
 brew gradle
-brew groovy --with-invokedynamic
+brew groovy --with-invokedynamic --with-invokedynamic
 brew gtk-doc
 brew harfbuzz --HEAD
 brew htop-osx
