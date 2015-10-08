@@ -29,6 +29,7 @@ cask textwrangler
 cask the-unarchiver
 cask transmission
 cask vivaldi
+cask vlc
 cask xld
 
 ## caskroom/fonts
@@ -117,7 +118,7 @@ brew go --HEAD
 brew gobject-introspection
 brew gptfdisk
 brew gradle
-brew groovy --with-invokedynamic --with-invokedynamic
+brew groovy --with-invokedynamic
 brew gtk-doc
 brew harfbuzz --HEAD
 brew htop-osx
