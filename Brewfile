@@ -74,6 +74,7 @@ brew brew-file --HEAD
 
 ## sanemat/font
 tap sanemat/font
+brew ricty --powerline --vim-powerline
 
 # Other Homebrew packages
 brew afsctool
@@ -201,6 +202,7 @@ appstore Night Owl
 appstore Now Playing
 appstore OneDrive
 appstore Photos Duplicate Cleaner
+appstore Tuba Free
 appstore TweetDeck
 appstore Twitter
 appstore Xcode
