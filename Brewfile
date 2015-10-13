@@ -152,6 +152,7 @@ brew macvim --HEAD --with-custom-icons --with-lua --with-luajit --with-override-
 brew maven
 brew media-info
 brew mercurial
+brew mkvtoolnix --HEAD --with-gettext
 brew mplayer --HEAD
 brew mplayershell --HEAD
 brew mysql
