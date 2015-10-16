@@ -209,6 +209,7 @@ appstore Night Owl
 appstore Now Playing
 appstore OneDrive
 appstore Photos Duplicate Cleaner
+appstore Todoist
 appstore Tuba Free
 appstore TweetDeck
 appstore Twitter
