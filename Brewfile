@@ -212,5 +212,6 @@ appstore Photos Duplicate Cleaner
 appstore Todoist
 appstore Tuba Free
 appstore TweetDeck
+appstore Twitter Scripter
 appstore Twitter
 appstore Xcode
