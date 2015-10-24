@@ -10,7 +10,6 @@ cask coteditor
 cask disk-inventory-x
 cask dupscanub
 cask evernote
-cask google-chrome
 cask launchcontrol
 cask lyrics-master
 cask macwinzipper
@@ -42,6 +41,7 @@ cask 1password-beta
 cask appcleaner-beta
 cask clipmenu-dev
 cask firefox-beta-ja
+cask google-chrome-dev
 cask iterm2-nightly
 cask sequel-pro-nightly
 cask vlc-nightly
@@ -209,6 +209,7 @@ appstore Night Owl
 appstore Now Playing
 appstore OneDrive
 appstore Photos Duplicate Cleaner
+appstore Pocket
 appstore Todoist
 appstore Tuba Free
 appstore TweetDeck
