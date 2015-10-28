@@ -24,7 +24,6 @@ cask shupapan
 cask skitch
 cask skype
 cask sourcetree
-cask textwrangler
 cask the-unarchiver
 cask transmission
 cask vivaldi
@@ -37,7 +36,6 @@ cask font-source-han-code-jp
 
 ## caskroom/versions
 tap caskroom/versions
-cask 1password-beta
 cask appcleaner-beta
 cask clipmenu-dev
 cask firefox-beta-ja
