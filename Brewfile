@@ -143,6 +143,7 @@ brew libmatroska
 brew libogg --HEAD
 brew libpng
 brew librsvg
+brew libsodium
 brew libtiff
 brew libtool
 brew libvo-aacenc
