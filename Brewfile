@@ -10,6 +10,7 @@ cask coteditor
 cask disk-inventory-x
 cask dupscanub
 cask evernote
+cask google-chrome
 cask launchcontrol
 cask lyrics-master
 cask macwinzipper
