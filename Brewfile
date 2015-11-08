@@ -41,7 +41,6 @@ cask 1password-beta
 cask appcleaner-beta
 cask clipmenu-dev
 cask firefox-beta-ja
-cask google-chrome-dev
 cask iterm2-nightly
 cask sequel-pro-nightly
 cask vlc-nightly
@@ -200,6 +199,11 @@ brew yasm --HEAD
 brew youtube-dl --HEAD --with-rtmpdump
 brew zeromq --HEAD
 brew zsh
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask vlc-nightly-cmp (!)
 
 # App Store applications
 appstore Blackmagic Disk Speed Test
