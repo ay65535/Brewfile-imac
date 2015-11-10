@@ -200,11 +200,6 @@ brew youtube-dl --HEAD --with-rtmpdump
 brew zeromq --HEAD
 brew zsh
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask vlc-nightly-cmp (!)
-
 # App Store applications
 appstore Blackmagic Disk Speed Test
 appstore iVolume
