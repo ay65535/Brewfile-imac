@@ -197,7 +197,7 @@ brew x265
 brew xvid
 brew xz
 brew yasm --HEAD
-brew youtube-dl --HEAD --with-rtmpdump
+brew youtube-dl
 brew zeromq --HEAD
 brew zsh
 
