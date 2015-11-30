@@ -27,6 +27,7 @@ cask shupapan
 cask skitch
 cask skype
 cask sourcetree
+cask textwrangler
 cask the-unarchiver
 cask transmission
 cask vivaldi
@@ -126,7 +127,7 @@ brew harfbuzz
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-librsvg
+brew imagemagick --with-librsvg --with-librsvg
 brew itstool
 brew jbig2dec
 brew jpeg
