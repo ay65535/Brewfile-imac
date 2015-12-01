@@ -120,6 +120,7 @@ brew gmp
 brew gnome-doc-utils
 brew go
 brew gobject-introspection
+brew gpac
 brew gradle
 brew groovy --with-invokedynamic
 brew gtk-doc
@@ -127,10 +128,11 @@ brew harfbuzz
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-librsvg --with-librsvg
+brew imagemagick --with-librsvg
 brew itstool
 brew jbig2dec
 brew jpeg
+brew l-smash
 brew lame
 brew libass
 brew libatomic_ops
