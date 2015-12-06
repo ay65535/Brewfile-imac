@@ -41,7 +41,6 @@ cask font-source-han-code-jp
 ## caskroom/versions
 tap caskroom/versions
 cask 1password-beta
-cask appcleaner-beta
 cask clipmenu-dev
 cask firefox-beta-ja
 cask iterm2-nightly
@@ -202,6 +201,11 @@ brew yasm
 brew youtube-dl
 brew zeromq
 brew zsh
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask appcleaner-beta (!)
 
 # App Store applications
 appstore Blackmagic Disk Speed Test
