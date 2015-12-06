@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask air-video-server-hd
+cask appcleaner
 cask backuploupe
 cask coteditor
 cask disk-inventory-x
@@ -201,11 +202,6 @@ brew yasm
 brew youtube-dl
 brew zeromq
 brew zsh
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask appcleaner-beta (!)
 
 # App Store applications
 appstore Blackmagic Disk Speed Test
