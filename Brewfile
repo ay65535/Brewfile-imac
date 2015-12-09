@@ -128,7 +128,7 @@ brew harfbuzz
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-librsvg
+brew imagemagick --with-librsvg --with-librsvg
 brew itstool
 brew jbig2dec
 brew jpeg
@@ -206,7 +206,6 @@ brew zsh
 # App Store applications
 appstore Blackmagic Disk Speed Test
 appstore Duplicate Cleaner For iPhoto
-appstore iPhoto
 appstore iVolume
 appstore LadioCast
 appstore LINE
