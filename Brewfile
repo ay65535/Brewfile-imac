@@ -128,7 +128,7 @@ brew harfbuzz
 brew htop-osx
 brew hub
 brew icu4c
-brew imagemagick --with-librsvg --with-librsvg
+brew imagemagick --with-librsvg
 brew itstool
 brew jbig2dec
 brew jpeg
